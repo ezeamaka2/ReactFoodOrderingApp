@@ -15,3 +15,6 @@ This is a react food odering app from the **Academind Udemy React Course Poject*
 - After the dependencies have been installed... Run `npm start` to start the project.
 
 This project is open source... You can make pull request and added any feature you think is important.
+
+**The Poject is connected to Firebase**
+- You can create a new firebase link and replace mine
