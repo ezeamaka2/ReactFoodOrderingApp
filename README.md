@@ -17,4 +17,4 @@ This is a react food odering app from the **Academind Udemy React Course Poject*
 This project is open source... You can make pull request and added any feature you think is important.
 
 **The Poject is connected to Firebase**
-- You can create a new firebase link and replace mine
+- You can create a new firebase link and replace mine, mine won't work for you
