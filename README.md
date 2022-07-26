@@ -9,7 +9,7 @@
 ## Checkout page
 ![Order](https://i.ibb.co/74Bvj1Y/3.jpg)
 
-This is a react food boking app from the **Academind Udemy React Course Poject**
+This is a react food boking app
 - You can simply clone the project and run `npm install` to install all the dependencies
 - Add an image of your choice into the assets folder that you would like to use as the backgroud or cover image
 - After the dependencies have been installed... Run `npm start` to start the project.
